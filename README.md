@@ -1,5 +1,5 @@
 # Code_Challenge
-## Coding Challenge
+### Coding Challenge
 #### All the files of code challenge are stored in Codechallenge directory.
 
 ###  Inside bank-app/app/Http/controllers folder you will find all the files like AccountController, BankController files
